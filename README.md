@@ -19,6 +19,8 @@ python txt_to_csv.py
 
 ## Contribution
 
-If you're new to contributing to Open Source on Github, [this guide](https://guides.github.com/activities/contributing-to-open-source/) can help you get started. Please check out the [contribution guide](https://gist.github.com/MarcDiethelm/7303312) for more details on how issues and pull requests work.
+* If you're new to contributing to Open Source on Github, [this guide](https://guides.github.com/activities/contributing-to-open-source/) can help you get started. Please check out the [contribution guide](https://gist.github.com/MarcDiethelm/7303312) for more details on how issues and pull requests work.
+
+* Don't forget to fork and star the repo.
 
 ###### This repository is just a small snippet of code I often use for Data Science projects, as many datasets are naturally .txt. You can reach out to me through raghavkhullar16@gmail.com.
