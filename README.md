@@ -9,13 +9,15 @@
 ## Usage
 
 ```
-cd [work directory]
+cd [working directory]
 ```
 * Make sure that your .txt file is present in this directory.
 
 ```
 python txt_to_csv.py
 ```
+
+* A ".csv" version of your text file would be available to you in the working directory.
 
 ## Contribution
 
